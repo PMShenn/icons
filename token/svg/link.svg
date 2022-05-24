@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#2A5ADA;}
-</style>
-<path class="st0" d="M8,1.1L6.7,1.8l-3.4,2L2,4.6v6.9l1.3,0.7l3.5,2L8,14.9l1.3-0.7l3.4-2l1.3-0.7V4.6l-1.3-0.7l-3.4-2L8,1.1z
-	 M4.6,10V6L8,4l3.4,2v4L8,12L4.6,10z"/>
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 10C0 4.47715 4.47715 0 10 0V0C15.5228 0 20 4.47715 20 10V10C20 15.5228 15.5228 20 10 20V20C4.47715 20 0 15.5228 0 10V10Z" fill="#577BDA"/>
+<path d="M14.896 5.67999L11.344 3.61599L10 2.79999L8.65601 3.56799L5.10401 5.63199L3.76001 6.44799V13.648L5.10401 14.416L8.75201 16.48L10 17.2L11.344 16.432L14.896 14.368L16.24 13.648V6.39999L14.896 5.67999ZM13.552 12.064L10 14.176L6.44801 12.064V7.93599L10 5.82399L13.552 7.93599V12.064Z" fill="white"/>
 </svg>

@@ -1,10 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
-<style type="text/css">
-	.st0{opacity:0.8;fill:#0A93EB;enable-background:new    ;}
-</style>
-<path class="st0" d="M24,0C10.8,0,0,10.8,0,24s10.8,24,24,24s24-10.8,24-24S37.2,0,24,0z M14,12l6.4,6.6c2,2,5,2,7,0l6.4-6.6h4
-	l-8.4,8.6c-3,3.2-8,3.2-11,0L10,12H14z M34,36l-6.4-6.6c-2-2-5-2-7,0L14,36h-4l8.4-8.6c3-3.2,8-3.2,11,0L38,36H34z"/>
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 10C0 4.47715 4.47715 0 10 0V0C15.5228 0 20 4.47715 20 10V10C20 15.5228 15.5228 20 10 20V20C4.47715 20 0 15.5228 0 10V10Z" fill="#38A5EB"/>
+<path d="M5.49995 4.60004L8.37995 7.57004C9.27995 8.47004 10.63 8.47004 11.53 7.57004L14.41 4.60004H16.21L12.43 8.47004C11.08 9.91004 8.82995 9.91004 7.47995 8.47004L3.69995 4.60004H5.49995Z" fill="white"/>
+<path d="M14.5 15.4L11.62 12.43C10.72 11.53 9.36995 11.53 8.46995 12.43L5.49995 15.4H3.69995L7.47995 11.53C8.82995 10.09 11.08 10.09 12.43 11.53L16.3 15.4H14.5Z" fill="white"/>
 </svg>
